@@ -42,5 +42,3 @@ This project uses a deep learning regression model to predict median housing pri
 - Loss and MAE curves
 - Actual vs. Predicted scatter plot
 
-## ✍️ Author
-- Rashmi2001-RS
